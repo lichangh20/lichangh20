@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m @lichangh20
 - 🔭 I’m currently working on Accelerating Quantized Neural Networks using Cuda C++
 - 🌱 I’m currently learning Rust, Cuda C++, Pytorch 
-- 📫 How to reach me: lichangh20@mails.tsinghua.edu.cn
+- 📫 How to reach me: cli911@gatech.edu
