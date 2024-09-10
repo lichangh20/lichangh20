@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lichangh20&layout=compact )](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @lichangh20
-- 🔭 I’m currently working on Accelerating Quantized Neural Networks using Cuda C++
-- 🌱 I’m currently learning Rust, Cuda C++, Pytorch 
+- 🔭 I’m currently working on Reinforcement Learning and Embodied AI
+- 🌱 I’m currently learning OpenRLHF 
 - 📫 How to reach me: cli911@gatech.edu
