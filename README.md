@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m @lichangh20 
 - 🔭 I’m currently working on Reinforcement Learning and Embodied AI
 - 🌱 I’m currently learning OpenRLHF 
-- 📫 How to reach me: cli911@gatech.edu
+- 📫 How to reach me: changhao.li@gatech.edu
